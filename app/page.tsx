@@ -51,7 +51,7 @@ export default function Home() {
         </Link>
 
         <Link
-          href={"https://www.instagram.com/identity.yyy?igsh=MTlrNHV1anI1cHFicg%3D%3D&utm_source=qr"}
+          href={"https://wa.me/message/ZR5M36WLJU6NP1"}
           target="_blank"
           rel="noopener noreferrer"
         >
