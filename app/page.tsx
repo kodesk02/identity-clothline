@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black p-4">
-      <div className="md:text-3xl text-2xl font-extralight text-center">Get to know me</div>
+      <div className="md:text-3xl text-2xl font-extralight text-center">IDENTITY Social Media Handles</div>
 
       <div className="flex flex-col space-y-4 border mt-5 rounded-lg p-6 sm:p-10 border-white w-full max-w-sm">
 
@@ -24,7 +24,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col">
               <span className="font-medium">Facebook</span>
-              <span className="text-xs break-all">IdentityClothline@facebook.com</span>
+              <span className="text-xs break-all">Identity@facebook.com</span>
             </div>
           </div>
         </Link>
@@ -66,7 +66,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col">
               <span className="font-medium">Whatsapp</span>
-              <span className="text-xs break-all">IdentityClothline@whatsapp.com</span>
+              <span className="text-xs break-all">Identity@whatsapp.com</span>
             </div>
           </div>
         </Link>
